@@ -59,15 +59,26 @@
 //
 //
 
-//IPO QUESTION #5 - Tip & Total Bill
+// //IPO QUESTION #5 - Tip & Total Bill
 
-//Input
+// //Input
 
-let bill = +prompt("Enter starting bill amount($)");
-let tip = +prompt("Enter percentage to tip");
+// let bill = +prompt("Enter starting bill amount($)");
+// let tip = +prompt("Enter percentage to tip");
 
-// Process
-let total = bill + tip;
+// // Process
+// let total = bill + tip;
 
-// Output
-alert(`$${bill} plus a tip of $${tip} = $${total}`);
+// // Output
+// alert(`$${bill} plus a tip of $${tip} = $${total}`);
+
+
+//
+//
+//
+//
+//
+//
+//
+
+//IPO QUESTION #6 - Distance between Points
