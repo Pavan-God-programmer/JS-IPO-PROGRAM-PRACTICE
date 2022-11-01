@@ -72,7 +72,6 @@
 // // Output
 // alert(`$${bill} plus a tip of $${tip} = $${total}`);
 
-
 //
 //
 //
@@ -81,4 +80,17 @@
 //
 //
 
-//IPO QUESTION #6 - Distance between Points
+// //IPO QUESTION #6 - Distance between Points
+
+// //Input
+
+// let x1 = +prompt("Enter x-coordinates  of 1st point");
+// let y1 = +prompt("Enter y-coordinates  of 1st point");
+// let x2 = +prompt("Enter x-coordinates  of 2st point");
+// let y2 = +prompt("Enter y-coordinates  of 2st point");
+
+// // Process
+// let math = Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
+
+// // Output
+// alert(`Distance between the two points is ${math}`);
